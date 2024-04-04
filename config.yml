@@ -37,9 +37,18 @@ params:
   shortDateFormat: 2006-01-02 15:04
   down: "#e60000"
   systems:
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
+    - name: mainpage
+      category: Uncategorized
+    - name: blog
+      description: ""
+      category: Uncategorized
+    - name: canvaswiki
+      category: Uncategorized
+    - name: git
+      category: Uncategorized
+    - name: mail
+      category: Uncategorized
+    - name: mc (ramvi-land)
       category: Uncategorized
   dateFormat: 2006-01-02 15:04 (UTC)
   brand: "#0a0c0f"
@@ -59,6 +68,7 @@ params:
   categories:
     - name: Uncategorized
       closed: true
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
