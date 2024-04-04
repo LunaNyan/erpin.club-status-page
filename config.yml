@@ -2,7 +2,7 @@ title: erpin.club Status Page
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://erpin.club
+baseURL: https://status.erpin.club
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
